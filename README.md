@@ -5,6 +5,8 @@ Its architecture is based on the design SAP as mentioned in the book "Digital co
 
 it has a 16 byte memory (RAM) onto which programs can be loaded.
 
+![circuit diagram](img.png)
+
 Instruction set:
 
 it currently supports 13 instructions.
